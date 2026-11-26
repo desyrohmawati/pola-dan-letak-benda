@@ -1,0 +1,6 @@
+{
+  "name": "Matematika Ceria: Pola dan Letak Benda",
+  "description": "Slide presentasi interaktif Matematika kelas 2 SD tentang pola dan letak benda dengan tema hewan dan tumbuhan yang ceria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
